@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Zomato",
+    "role": "Data Scientist",
+    "source_name": "LeetCode Discuss",
+    "source_url": "https://leetcode.com/discuss/post/3024221/zomato-data-scientist-dec22-offer/",
+    "reported_date": "2022-12",
+    "raw_text": "Candidate-reported Zomato Data Scientist interview.\nQuestions/topics explicitly reported:\n- Explain a data science project end to end.\n- Why did you use this approach instead of another approach?\n- Explain the working of machine learning algorithms and methods.\n- How do you train Word2Vec?\n- Explain bagging and boosting.\n- Basic statistics questions.\n- How would you build an ETA calculation model for Zomato?\n- Design a recommender system for Zomato to recommend dishes to a user.\n- How would you solve the cold-start problem?\n- Which metric would you choose to evaluate the recommendation solution?"
+  },
+  {
+    "company": "Zomato",
+    "role": "Data Scientist",
+    "source_name": "LinkedIn",
+    "source_url": "https://www.linkedin.com/posts/surbhi-walecha_machinelearning-datascience-mlinterviewprep-activity-7330789823634477058-wOeA",
+    "reported_date": "2025",
+    "raw_text": "Publicly posted Zomato Data Science interview question list:\n- Write a SQL query to find the top 3 most ordered cuisines in the last 6 months.\n- Identify users who have not placed an order in the last 30 days but were active before that.\n- Calculate average delivery time per city and rank cities by speed.\n- Detect anomalies in daily order volume and determine whether a spike is caused by a food festival or marketing campaign.\n- Calculate repeat purchase rate per user.\n- Design an A/B test to measure the impact of showing restaurant rating prominently on the home screen.\n- Validate whether a 15% increase in orders after an ad campaign is statistically significant.\n- Explain p-value and confidence intervals in a product experiment context."
+  },
+  {
+    "company": "Zomato",
+    "role": "Data Scientist",
+    "source_name": "Glassdoor",
+    "source_url": "https://www.glassdoor.com/Interview/How-to-handle-imbalanced-dataset-QTN_8527240.htm",
+    "reported_date": "2026",
+    "raw_text": "Zomato Data Scientist interview question: How to handle an imbalanced dataset."
+  },
+  {
+    "company": "Zomato",
+    "role": "Data Scientist",
+    "source_name": "Glassdoor",
+    "source_url": "https://www.glassdoor.com/Interview/All-forms-of-Knapsack-fractional-bounded-unbounded-QTN_8488171.htm",
+    "reported_date": "2025-09-04",
+    "raw_text": "Zomato Data Scientist interview question: All forms of Knapsack, including fractional, bounded, and unbounded."
+  },
+  {
+    "company": "Zomato",
+    "role": "Associate Data Scientist",
+    "source_name": "Glassdoor",
+    "source_url": "https://www.glassdoor.co.in/Interview/DSA-Binary-search-ML-CNN-NLP-algorithms-and-maths-behind-it-QTN_7365816.htm",
+    "reported_date": "2024",
+    "raw_text": "Zomato Associate Data Scientist interview question: DSA binary search; ML CNN/NLP and the algorithms and mathematics behind them."
+  },
+  {
+    "company": "Zomato",
+    "role": "Data Scientist",
+    "source_name": "LinkedIn",
+    "source_url": "https://www.linkedin.com/posts/aaryan-ahuja_zomato-interviewquestions-datascience-activity-7160888086363602945-tY2z",
+    "reported_date": "2023-2024",
+    "raw_text": "Candidate-reported Zomato Data Scientist-1 interview:\n- Walk me through your resume.\n- Explain bias and variance.\n- How do you handle class imbalance?\n- Explain skewness and correlation.\n- Explain EDA.\n- Explain neural-network feedforward equations.\n- Explain backpropagation.\n- Explain dropout and activation functions.\n- Solve an optimization problem.\n- Derive a closed-form expression for the expectation of an event.\n- Design an ML framework for a business problem."
+  }
+]

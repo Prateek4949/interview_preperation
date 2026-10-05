@@ -1,0 +1,146 @@
+{
+  "company": "Zomato",
+  "role": "Senior Data Scientist",
+  "experience_range": "5-7 years",
+  "jd_type": "reference",
+  "title": "Senior Data Scientist",
+  "summary": "Reference profile for a Senior Data Scientist with 5-7 years of experience owning complex data science and machine learning problems from analysis through production.",
+  "areas": [
+    {
+      "name": "Python",
+      "priority": "high",
+      "skills": [
+        "Advanced Python",
+        "Pandas",
+        "NumPy",
+        "Data processing",
+        "Production-quality code"
+      ]
+    },
+    {
+      "name": "SQL",
+      "priority": "high",
+      "skills": [
+        "Advanced SQL",
+        "Complex joins",
+        "Window functions",
+        "Query optimization",
+        "Large-scale analytical queries"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "priority": "high",
+      "skills": [
+        "Probability",
+        "Statistical distributions",
+        "Hypothesis testing",
+        "Experiment design",
+        "Causal reasoning",
+        "Confidence intervals",
+        "Statistical significance"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "priority": "high",
+      "skills": [
+        "Regression",
+        "Classification",
+        "Ensemble methods",
+        "Feature engineering",
+        "Model selection",
+        "Model evaluation",
+        "Optimization",
+        "Handling imbalanced data"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "priority": "medium",
+      "skills": [
+        "Neural networks",
+        "Representation learning",
+        "Deep learning architectures",
+        "Model training and evaluation"
+      ]
+    },
+    {
+      "name": "Recommendation and Ranking",
+      "priority": "high",
+      "skills": [
+        "Recommendation systems",
+        "Ranking models",
+        "Personalization",
+        "Cold-start problem",
+        "Offline metrics",
+        "Online metrics"
+      ]
+    },
+    {
+      "name": "Forecasting",
+      "priority": "high",
+      "skills": [
+        "Demand forecasting",
+        "Time series",
+        "Prediction systems",
+        "Forecast evaluation",
+        "Feature-based forecasting"
+      ]
+    },
+    {
+      "name": "Experimentation",
+      "priority": "high",
+      "skills": [
+        "A/B testing",
+        "Experiment design",
+        "Metric selection",
+        "Statistical significance",
+        "Experiment interpretation"
+      ]
+    },
+    {
+      "name": "ML System Design",
+      "priority": "high",
+      "skills": [
+        "End-to-end ML systems",
+        "Training pipelines",
+        "Model serving",
+        "Scalability",
+        "Latency",
+        "Monitoring",
+        "Model updates"
+      ]
+    },
+    {
+      "name": "Production ML",
+      "priority": "medium",
+      "skills": [
+        "Model deployment",
+        "Model monitoring",
+        "Performance optimization",
+        "Serving infrastructure"
+      ]
+    },
+    {
+      "name": "Product and Business Analytics",
+      "priority": "high",
+      "skills": [
+        "Product metrics",
+        "Business problem solving",
+        "Impact measurement",
+        "Data-driven decision making"
+      ]
+    },
+    {
+      "name": "Leadership and Ownership",
+      "priority": "medium",
+      "skills": [
+        "End-to-end ownership",
+        "Stakeholder communication",
+        "Technical decision making",
+        "Mentoring"
+      ]
+    }
+  ]
+}

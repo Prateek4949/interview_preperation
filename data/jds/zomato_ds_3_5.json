@@ -1,0 +1,120 @@
+{
+  "company": "Zomato",
+  "role": "Data Scientist",
+  "experience_range": "3-5 years",
+  "jd_type": "reference",
+  "title": "Data Scientist",
+  "summary": "Reference profile for a Data Scientist with 3-5 years of experience working on data-driven product and business problems.",
+  "areas": [
+    {
+      "name": "Python",
+      "priority": "high",
+      "skills": [
+        "Python programming",
+        "Pandas",
+        "NumPy",
+        "Data manipulation",
+        "Problem solving"
+      ]
+    },
+    {
+      "name": "SQL",
+      "priority": "high",
+      "skills": [
+        "Joins",
+        "Aggregations",
+        "Window functions",
+        "Subqueries",
+        "Analytical queries"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "priority": "high",
+      "skills": [
+        "Probability",
+        "Distributions",
+        "Hypothesis testing",
+        "p-value",
+        "Confidence intervals",
+        "Correlation",
+        "Statistical significance"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "priority": "high",
+      "skills": [
+        "Regression",
+        "Classification",
+        "Tree-based models",
+        "Ensemble methods",
+        "Feature engineering",
+        "Model evaluation",
+        "Class imbalance"
+      ]
+    },
+    {
+      "name": "Experimentation",
+      "priority": "high",
+      "skills": [
+        "A/B testing",
+        "Experiment design",
+        "Control and treatment groups",
+        "Metric selection",
+        "Statistical significance"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "priority": "medium",
+      "skills": [
+        "EDA",
+        "Data cleaning",
+        "Data quality",
+        "Pattern identification",
+        "Business insights"
+      ]
+    },
+    {
+      "name": "Recommendation Systems",
+      "priority": "medium",
+      "skills": [
+        "Recommendation systems",
+        "Ranking",
+        "Cold-start problem",
+        "Recommendation metrics"
+      ]
+    },
+    {
+      "name": "Forecasting",
+      "priority": "medium",
+      "skills": [
+        "Time series",
+        "Demand forecasting",
+        "Prediction systems",
+        "Forecast evaluation"
+      ]
+    },
+    {
+      "name": "Case Studies",
+      "priority": "high",
+      "skills": [
+        "Business problem solving",
+        "Product analytics",
+        "Metric selection",
+        "ML solution design"
+      ]
+    },
+    {
+      "name": "Machine Learning System Design",
+      "priority": "medium",
+      "skills": [
+        "ML pipeline",
+        "Model deployment",
+        "Model serving",
+        "Production considerations"
+      ]
+    }
+  ]
+}
