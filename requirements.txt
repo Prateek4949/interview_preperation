@@ -1,4 +1,6 @@
-openai>=1.40.0
-python-dotenv>=1.0.1
-sentence-transformers
+streamlit
+openai
+python-dotenv
 PyPDF2
+sentence-transformers
+numpy
